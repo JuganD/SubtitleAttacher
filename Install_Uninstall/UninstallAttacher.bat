@@ -1,0 +1,1 @@
+@Reg delete "HKEY_CLASSES_ROOT\*\shell\Attach Subtitle" /f

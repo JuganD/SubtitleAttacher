@@ -1,0 +1,1 @@
+@Reg Add "HKEY_CLASSES_ROOT\*\shell\Attach Subtitle\command" /VE /D "\"%CD%\SubtitleAttacher.exe\" %%1" /F >Nul
